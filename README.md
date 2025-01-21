@@ -44,7 +44,7 @@ Follow these steps to set up the project on your local machine:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your_username/credit-card-fraud-detection.git
+git clone https://github.com/nicole-baltodano/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 ```
 
